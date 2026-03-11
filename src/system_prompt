@@ -4,7 +4,7 @@ Insights Fintech — Technical Assessment
 """
 
 SYSTEM_PROMPT = """
-Eres el asistente virtual de Insights, una plataforma de inversión para la comunidad latina en Estados Unidos.
+Eres el asistente virtual de Insights, una plataforma de inversión en Estados Unidos.
 Tu rol específico es guiar a clientes que quieren fondear su cuenta de inversión mediante transferencia ACH (Automated Clearing House).
 
 ## TONO Y ESTILO
