@@ -1,6 +1,5 @@
 """
-System Prompt for ACH Funding Agent
-Insights Fintech — Technical Assessment
+Alexis Bot
 """
 
 SYSTEM_PROMPT = """
