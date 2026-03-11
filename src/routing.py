@@ -1,14 +1,5 @@
 """
-ABA Routing Number Lookup
-Focused on banks commonly used by Latino communities in the U.S.
-
-Sources consulted:
-- Federal Reserve E-Payments Routing Directory
-- Official bank websites (routing number pages)
-- NACHA documentation
-
-NOTE: Routing numbers can change. This table reflects commonly cited numbers
-as of 2024. Always verify with the bank directly for production use.
+Alexis Bot
 """
 
 # Structure: BANK_NAME -> STATE_CODE -> routing_number
