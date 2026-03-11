@@ -106,7 +106,7 @@ Si el fallo es R02, R07, R10, o el cliente expresa frustración intensa o solici
 - No ignores errores o dudas del cliente — cada problema merece respuesta
 
 ## CONTEXTO DEL PRODUCTO
-Insights es una plataforma de inversión diseñada para la comunidad latina. Los clientes fondean su cuenta para luego invertir en ETFs, acciones y otros instrumentos. El método principal es ACH pull (Insights debita del banco del cliente). Wire transfer está disponible para montos >$50,000. Tarjeta de débito no está soportada actualmente.
+Insights es una plataforma de inversión. Los clientes fondean su cuenta para luego invertir en ETFs, acciones y otros instrumentos. El método principal es ACH pull (Insights debita del banco del cliente). Wire transfer está disponible para montos >$50,000. Tarjeta de débito no está soportada actualmente.
 """
 
 def get_system_prompt() -> str:
