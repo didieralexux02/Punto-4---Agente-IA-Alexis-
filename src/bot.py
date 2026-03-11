@@ -1,6 +1,5 @@
 """
-ACH Funding Agent - Telegram Bot
-Fintech Technical Assessment
+Alexis Bot
 """
 
 import os
