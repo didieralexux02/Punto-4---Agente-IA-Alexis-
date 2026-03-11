@@ -1,6 +1,5 @@
 """
-NACHA Return Codes — ACH Failure Handling
-Covers the most common rejection reasons for ACH pull transactions.
+Alexis bot
 """
 
 NACHA_CODES: dict[str, dict] = {
